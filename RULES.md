@@ -3,15 +3,15 @@
 Please follow this guide when naming Folders and Files in this repo. 
 
 ## Names
-*For the scope of these rules, Names are either companys or products. 
-*Names will follow same capatilisation as the origional.
-*Spaces in names will be replaced with a "_".
-*Hyphens (-), Numbers (123), will be preserved.
-*Special Symbols (~!@) should be removed if it causes complications with OS's file system. 
-*Registered Trade Marks (®) will be removed from name. 
+* For the scope of these rules, Names are either companys or products. 
+* Names will follow same capatilisation as the origional.
+* Spaces in names will be replaced with a "_".
+* Hyphens (-), Numbers (123), will be preserved.
+* Special Symbols (~!@) should be removed if it causes complications with OS's file system. 
+* Registered Trade Marks (®) will be removed from name. 
 
 ## File Names
-*Origional File Names from 3rd party sources can be preserved if they're easily understood. 
+* Origional File Names from 3rd party sources can be preserved if they're easily understood. 
 
 # Folder & File Names
 
@@ -34,5 +34,3 @@ docs/
  ├── RULES.md                  
  └── README.md              
 ```
-
-# File Names
