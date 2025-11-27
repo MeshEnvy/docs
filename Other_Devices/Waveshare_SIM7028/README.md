@@ -1,4 +1,4 @@
-# <Full Device Name>
+# # SIM7028 NB-IoT HAT
 
 ## Device Info
 * [SIM7028 NB-IoT HAT](https://www.waveshare.com/sim7028-nb-iot-hat.htm)
