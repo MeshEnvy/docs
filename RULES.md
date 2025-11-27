@@ -3,7 +3,7 @@
 Please follow this guide when naming Folders and Files in this repo. 
 
 ## Names
-* For the scope of these rules, Names are either companys or products. 
+* For the scope of these rules, names are either companys or products. 
 * Names will follow same capatilisation as the origional.
 * Spaces in names will be replaced with a "_".
 * Hyphens (-), Numbers (123), will be preserved.
