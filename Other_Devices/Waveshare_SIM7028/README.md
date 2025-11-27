@@ -11,3 +11,6 @@
 * [RPi Documentation](https://www.waveshare.com/wiki/Raspberry_Pi_Documentation)
 
 ## Other
+
+## Notes
+* Not ideal as a dedicated internet source. Built to push MQTT and HTTP based API messages then going to sleep.
