@@ -13,7 +13,7 @@ Please follow this guide when naming Folders and Files in this repo.
 ## File Names
 * Origional File Names from 3rd party sources can be preserved if they're easily understood. 
 
-# Folder & File Names
+## Folder & File Names
 
 ```
 docs/
