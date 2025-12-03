@@ -1,4 +1,4 @@
-# Full Device Name
+# Semtech SX126X
 
 ## Device Info
 * [Semtech Website](https://www.semtech.com/products/wireless-rf/lora-connect/sx1262)
